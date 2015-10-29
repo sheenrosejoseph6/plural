@@ -1,6 +1,7 @@
 {
   "name": "pluralsight Package",
   "description": "Tring out the Plural sight package creation",
+  "version" : "0.0.2",
   "main": "plural.js",
   "moduleType": [],
   "keywords": [
