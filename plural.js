@@ -1,1 +1,1 @@
-document.write('My Own Bower Package v2');
+document.write('My Own Bower Package v3');
